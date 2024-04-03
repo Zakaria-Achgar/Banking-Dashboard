@@ -1,0 +1,18 @@
+.LineChart {
+    height: auto;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    gap: 2vw;
+    flex-wrap: wrap;
+}
+  
+.revenueCard {
+    width: 92%;
+    height: 340px;
+}
+  
+
+  
